@@ -1,0 +1,9 @@
+{
+    "name": "Iconsax Settings Icons",
+    "version": "1.0.0",
+    "author": "Obscure.#4719",
+    "description": "Adds icons from Iconsax.io to the sidebar buttons inside settings menu!",
+    "license": "GPL-3.0 License",
+    "theme": "theme.scss",
+    "invite": "discord.gg/B9TK7nqRE4"
+}
