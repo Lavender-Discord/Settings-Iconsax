@@ -26,6 +26,10 @@ Or for better control, paste this:
 
 Give me credits 👍.
 
+# Credits
+
+The base of this is from [CorellanStoma](https://github.com/CorellanStoma)'s [Settings Icon](https://github.com/CreArts-Community/Settings-Icons) theme and also I use some icons from there so credits to him.
+
 # Contributing
 
 If you want to help and add icons just fork this repo and do your stuff and open a Pull Request 👍.
