@@ -4,24 +4,24 @@ Adds [iconsax.io](https://iconsax.io) icons in discord settings.
 To import this Icon pack to your theme just paste the following code into your themes imports file:
 
 ```css
-@import url("https://obscure-git.github.io/Settings-Iconsax/theme.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/theme.css");
 ```
 
 Or for better control, paste this:
 
 ```css
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/allignment.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/allignment.css");
 /* Don't remove this line because its important lol*/
 
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/activity-settings.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/app-settings.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/community.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/other.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/payment-settings.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/powercord.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/server.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/user-management.css");
-@import url("https://obscure-git.github.io/Settings-Iconsax/src/user-settings.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/activity-settings.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/app-settings.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/community.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/other.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/payment-settings.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/powercord.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/server.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/user-management.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/user-settings.css");
 ```
 
 Give me credits 👍.
@@ -42,8 +42,8 @@ For any kind of support related to this theme you can contact me in the [support
 
 # Previews
 
-<img src="https://obscure-git.github.io/Settings-Iconsax/assets/1.png" alt="">
+<img src="https://lavender-discord.github.io/Settings-Iconsax/assets/1.png" alt="">
 
 <br>
 
-<img src="https://obscure-git.github.io/Settings-Iconsax/assets/2.png" alt="">
+<img src="https://lavender-discord.github.io/Settings-Iconsax/assets/2.png" alt="">
